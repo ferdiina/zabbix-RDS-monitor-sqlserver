@@ -1,5 +1,9 @@
 # zabbix-RDS-monitor-sqlserver
 Aliyun RDS-mssql status monitor with zabbix   
+
+Ver 0.1 Pythons脚本已测试通过,模板暂未配置完毕
+
+
    
 zabbix通过阿里云api 自动发现、监控阿里云RDS-Mssql数据库      
 本版本数据的图表展示，是以**监控项进行分组**，后期会再发布**以rds实例分组**的版本。
