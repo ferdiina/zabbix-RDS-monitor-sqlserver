@@ -1,7 +1,7 @@
 # zabbix-RDS-monitor-sqlserver
 Aliyun RDS-mssql status monitor with zabbix   
 
-本项目源代码出自https://github.com/XWJR-Ops/zabbix-RDS-monitor 提供的Mysql监控脚本
+本项目源代码出自   https://github.com/XWJR-Ops/zabbix-RDS-monitor   提供的Mysql监控脚本
    
 zabbix通过阿里云python core api 自动发现、监控阿里云RDS-sqlserver数据库      
 本版本数据的图表展示，是以**监控项进行分组**，后期会再发布**以rds实例分组**的版本。
