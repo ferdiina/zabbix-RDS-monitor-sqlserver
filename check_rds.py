@@ -4,8 +4,8 @@ from aliyunsdkcore import client
 from aliyunsdkrds.request.v20140815 import DescribeResourceUsageRequest,DescribeDBInstancePerformanceRequest
 import json,sys,datetime
 
-ID = 'Aliyun ID'
-Secret = 'Aliyun Secret'
+ID = '阿里云ID'
+Secret = '阿里云API Secret'
 RegionId = 'cn-hangzhou'
 
 clt = client.AcsClient(ID,Secret,RegionId)
